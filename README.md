@@ -8,7 +8,6 @@ This is a portfolio website built with Next.js and Tailwind CSS. It showcases yo
 - [Dependencies](#dependencies)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -40,7 +39,7 @@ The following dependencies are required for this project:
 ### Projects Section
 ![image](https://github.com/user-attachments/assets/90d20a19-eb9e-467f-aa19-50694d439656)
 
-### About Me Section
+### Contact Section
 ![image](https://github.com/user-attachments/assets/c9414609-b122-437f-a294-7765c8adda5b)
 
 
