@@ -34,13 +34,13 @@ The following dependencies are required for this project:
 ## Screenshots
 
 ### Home Page
-![image](https://github.com/user-attachments/assets/f64cedbe-c70d-4906-b018-eccc5a5ef01b)
+![image](docs/screenshots/about.png)
 
 ### Projects Section
-![image](https://github.com/user-attachments/assets/90d20a19-eb9e-467f-aa19-50694d439656)
+![image](docs/screenshots/projects.png)
 
 ### Contact Section
-![image](https://github.com/user-attachments/assets/c9414609-b122-437f-a294-7765c8adda5b)
+![image](docs/screenshots/contact.png)
 
 
 ## Deployed URL
